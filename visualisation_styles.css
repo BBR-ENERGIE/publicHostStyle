@@ -1,0 +1,161 @@
+/* In root pseudo-class you can configurate 
+the position or the color of the html elements */
+
+/* ****************************** CONFIGURATION ********************************** */
+:root {
+    /* Main element */
+    --main-bg-color:#ffffff;
+    --width-card:10rem;
+
+    /* Compressor scoll configuration*/
+    --pos-top-compressor-scroll:250px;
+    --pos-left-compressor-scroll:30%;
+    --width-compressor-scroll: 5%;
+
+    /* Pompe configuration */
+    --pos-top-pompe: 600px;
+    --pos-left-pompe:25%;
+    --width-pompe:5%;
+
+    /* Venne configuration */
+    --pos-left-vanne:15%;
+    --width-vanne: 5%;
+
+    /* Condenseur configuration */
+    --pos-top-condenseur: 100px;
+    --pos-left-condenseur: 6%;
+
+    /* Echangeur d'Ambiance PCS */
+    --pos-top-echangeur: var(--pos-top-pompe);
+    --pos-right-echangeur: var(--pos-left-condenseur);
+
+    /* Final Point */
+    --pos-top-final-point: 1000px;
+
+    
+
+
+}
+
+/* ********************************************************************************* */
+
+
+/* body {
+    margin:0;
+    padding: 0;
+    background-color: var(--main-bg-color);
+} */
+
+.deshydrateur {
+    top: 475px;
+    left: 15%;
+    
+}
+
+.pompe {
+    position: absolute;
+    top: var(--pos-top-pompe);
+    width: var(--width-pompe);
+}
+
+#pompeLeft {
+    left: var(--pos-left-pompe);
+}
+#pompeRight {
+    right: var(--pos-left-pompe);
+}
+
+
+#vanneLeft { 
+    left: var(--pos-left-vanne); 
+}
+#vanneRight { 
+    right: var(--pos-left-vanne); 
+}
+.vanne {
+    position: absolute;
+    top: 435px;
+    width: var(--width-vanne);
+    padding: 0;
+    margin: 0;
+}
+.compresseurScoll {
+    position: absolute;
+    top: var(--pos-top-compressor-scroll);
+    width: var(--width-compressor-scroll);
+}
+#compresseurScrollLeft {
+    left:var(--pos-left-compressor-scroll);
+}
+#compresseurScrollRight {
+    right: var(--pos-left-compressor-scroll);
+    
+}
+
+.evaporateur {
+    top: 400px;
+    right: 45%;
+}
+.condenseurLeft {
+    top: var(--pos-top-condenseur);
+    left: var(--pos-left-condenseur);
+}
+.condenseurRight {
+    top: var(--pos-top-condenseur);
+    right: var(--pos-left-condenseur);
+}
+.liquideHP {
+    top:280px;
+    left: 2%;
+}
+
+.card {
+    width: var(--width-card);
+    height: var(--width-card);
+    position: absolute;
+    box-shadow: 1px 1px 3px;
+}
+
+.titleSectionRed {
+    border: 2px dotted red;
+    padding: 1px;
+    color: red;
+    font-size: larger;
+    font-weight: bold;
+    position: absolute;
+
+}
+.infoBubble {
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    position: absolute;
+}
+
+#echangeurAmbiancePCS {
+    position: absolute;
+    top: var(--pos-top-echangeur) ;
+    right: var(--pos-right-echangeur);
+}
+#legend {
+    position: absolute;
+    top: var(--pos-top-echangeur) ;
+    left:2%;
+    z-index: 1000;
+}
+#vanneMotoriseeModulante {
+    position: absolute;
+    top: var(--pos-top-echangeur) ;
+    left: 40%;
+}
+
+#finalPointLeft {
+    position: absolute;
+    top: var(--pos-top-final-point);
+    left: 15%
+}
+#finalPointRight {
+    position: absolute;
+    top: var(--pos-top-final-point);
+    left: 42%;
+}
