@@ -1,8 +1,9 @@
 # publicHostStyle
-Delevery of css files 
+### Delevery of css files 
 https://raw.githubusercontent.com/BBR-ENERGIE/publicHostStyle/main/visualisation_styles.css
 https://raw.githubusercontent.com/BBR-ENERGIE/publicHostStyle/main/visualisation_base.css
-Delevery of image files :
+
+### Delevery of image files :
 https://raw.githubusercontent.com/BBR-ENERGIE/publicHostStyle/main/fuse.svg
 https://raw.githubusercontent.com/BBR-ENERGIE/publicHostStyle/main/fuse_red.svg
 https://raw.githubusercontent.com/BBR-ENERGIE/publicHostStyle/main/pcs-green.svg
