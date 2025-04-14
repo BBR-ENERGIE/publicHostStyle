@@ -1,0 +1,15 @@
+<svg id="eeUafYl9dgE1" width="100px" height="100px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" project-id="0c2a2bc11c7448baa1174cf01f14e1d5" export-id="ba8614dbe7364eabab06c9d7d62dee48" cached="false">
+    <defs>
+        <linearGradient id="enRECXSHsDL2-fill" x1="0" y1="0" x2="0" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+            <stop id="enRECXSHsDL2-fill-0" offset="0%" stop-color="#a00"/>
+            <stop id="enRECXSHsDL2-fill-1" offset="50%" stop-color="#f00"/>
+            <stop id="enRECXSHsDL2-fill-2" offset="100%" stop-color="#a00"/>
+        </linearGradient>
+    </defs>
+    <rect width="250" height="250" rx="0" ry="0" transform="translate(19.400971 33.459255)" fill="url(#enRECXSHsDL2-fill)" stroke="#000" stroke-width="3"/>
+    <line x1="-125" y1="125" x2="125" y2="-125" transform="translate(144.400971 158.459255)" fill="none" stroke="#000" stroke-width="3"/>
+    <line x1="-13.491635" y1="0" x2="13.491635" y2="0" transform="translate(203.966541 198.105235)" fill="none" stroke="#000" stroke-width="3"/>
+    <line x1="-13.491635" y1="0" x2="13.491635" y2="0" transform="translate(203.966541 185.105235)" fill="none" stroke="#000" stroke-width="3"/>
+    <path d="M10,50q40-40,80,0t80,0" transform="matrix(.511063 0 0 0.511337 57.520261 60.752632)" fill="rgba(0,0,0,0)" stroke="#000" stroke-width="4"/>
+    <polygon points="10,25 30,10 30,20 70,20 70,10 90,25 70,40 70,30 30,30 30,40" transform="matrix(.636464 0 0 0.682262 172.619162 212.646015)"/>
+</svg>

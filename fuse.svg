@@ -1,0 +1,9 @@
+<svg id="enRECXSHsDL1" width="40" height="80" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 200" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" project-id="398da8b85e67486f95234f1a00777981" export-id="02b106dd23b34e0db7ae081461ba9b38" cached="false">
+    <defs>
+        <linearGradient id="enRECXSHsDL2-fill" x1="0" y1="0" x2="0" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)"><stop id="enRECXSHsDL2-fill-0" offset="0%" stop-color="#0a0"/>
+            <stop id="enRECXSHsDL2-fill-1" offset="50%" stop-color="#0f0"/><stop id="enRECXSHsDL2-fill-2" offset="100%" stop-color="#0a0"/>
+        </linearGradient>
+    </defs>
+    <rect width="100" height="200" rx="0" ry="0" fill="url(#enRECXSHsDL2-fill)" stroke="#000" stroke-width="5"/>
+    <line x1="0" y1="-100" x2="0" y2="100" transform="translate(50 100)" fill="none" stroke="#000" stroke-width="3"/>
+</svg>
