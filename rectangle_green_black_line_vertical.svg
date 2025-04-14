@@ -1,0 +1,11 @@
+<svg id="eZwmAPHpR191" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 200" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" project-id="2dd337b2614b46f48ce779be3b4f03f9" export-id="8deff028acfa4e7e820cf205b827d17e" cached="false">
+    <defs>
+        <linearGradient id="eZwmAPHpR192-fill" x1="0" y1="0" x2="0" y2="1" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+            <stop id="eZwmAPHpR192-fill-0" offset="0%" stop-color="#0a0"/>
+            <stop id="eZwmAPHpR192-fill-1" offset="50%" stop-color="#0f0"/>
+            <stop id="eZwmAPHpR192-fill-2" offset="100%" stop-color="#0a0"/>
+        </linearGradient>
+    </defs>
+    <rect width="100" height="200" rx="0" ry="0" fill="url(#eZwmAPHpR192-fill)" stroke="#000" stroke-opacity="0.2"/>
+    <line x1="0" y1="-100" x2="0" y2="100" transform="translate(50 100)" fill="none" stroke="#000" stroke-width="3"/>
+</svg>
