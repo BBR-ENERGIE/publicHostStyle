@@ -15,3 +15,5 @@
 - https://raw.githubusercontent.com/BBR-ENERGIE/publicHostStyle/main/swtich_on.svg
 - https://raw.githubusercontent.com/BBR-ENERGIE/publicHostStyle/main/transformateur.svg
 - https://raw.githubusercontent.com/BBR-ENERGIE/publicHostStyle/main/logo-essais.png
+- https://raw.githubusercontent.com/BBR-ENERGIE/publicHostStyle/main/favicon.ico
+- https://raw.githubusercontent.com/BBR-ENERGIE/publicHostStyle/main/logo_blanc_sans_fond.png
