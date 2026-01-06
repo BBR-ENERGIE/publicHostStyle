@@ -18,4 +18,6 @@
 - https://raw.githubusercontent.com/BBR-ENERGIE/publicHostStyle/main/favicon.ico
 - https://raw.githubusercontent.com/BBR-ENERGIE/publicHostStyle/main/logo_blanc_sans_fond.png
 - https://raw.githubusercontent.com/BBR-ENERGIE/publicHostStyle/main/logo_bbr_white.svg
+- https://raw.githubusercontent.com/BBR-ENERGIE/publicHostStyle/main/marker-offline.svg
+- https://raw.githubusercontent.com/BBR-ENERGIE/publicHostStyle/main/marker-online.svg
 
